@@ -6,3 +6,8 @@ class Test(object):
 		
 	def eat(self):
 		return 111
+		
+	def run(self):
+		return True
+
+		
